@@ -14,6 +14,11 @@
 - 📫 Reach out to me at **chamindusathsara27@gmail.com**
 
 - ⚡ Fun fact: I love creating things that live on the internet!
+<p align="center">
+  <img src="https://img.shields.io/github/followers/chamindu24?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/chamindu24?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=chamindu24" alt="Profile views" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
