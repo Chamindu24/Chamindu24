@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;Tech+Enthusiast;Lifelong+Learner&background=000000" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -14,10 +14,11 @@
 - 📫 Reach out to me at **chamindusathsara27@gmail.com**
 
 - ⚡ Fun fact: I love creating things that live on the internet!
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/chamindu24?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/chamindu24?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://komarev.com/ghpvc/?username=chamindu24" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=chamindu24&color=brightgreen" alt="Profile views" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -43,8 +44,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamindu24&show_icons=true&locale=en" alt="chamindu sathsara" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chamindu24&show_icons=true&locale=en&theme=dark" alt="chamindu sathsara" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu24&" alt="chamindu sathsara" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu24&theme=dark" alt="chamindu sathsara" />
 </p>
