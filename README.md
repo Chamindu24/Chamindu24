@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! 👋 I'm Chamindu Sathsara</h1>
-<h3 align="center">A passionate Frontend Developer 🚀</h3>
+<h3 align="center">A passionate Full-stack  Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;Tech+Enthusiast;Lifelong+Learner&background=000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=25&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Tech+Enthusiast;Lifelong+Learner&background=000000" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
