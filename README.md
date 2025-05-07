@@ -2,9 +2,9 @@
   
 # Chamindu Sathsara
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamindusathsara)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamindusathsara27@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://chamindusathsara.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamindu-sathsara-95a2402a3/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamindus.22@cse.mrt.ac.lk)
   
 </div>
 
@@ -65,12 +65,14 @@ I'm a passionate Full-stack Developer with a love for creating elegant, high-per
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamindu24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindu24&layout=compact&langs_count=6&theme=tokyonight" />
+  
+![Metrics](https://metrics.lecoq.io/chamindu24?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FColombo)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu24&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chamindu24&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindu24&layout=compact&theme=radical" />
 </div>
 
 ## 🤝 Let's Connect
@@ -87,11 +89,12 @@ I'm a passionate Full-stack Developer with a love for creating elegant, high-per
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chamindu24&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/chamindu24?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/chamindu24?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
-</div>
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=chamindu24&color=orange&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/chamindu24?label=FOLLOWERS&style=flat-square&color=blue)](https://github.com/chamindu24)
+[![Repos](https://img.shields.io/badge/REPOSITORIES-10+-brightgreen?style=flat-square)](https://github.com/chamindu24?tab=repositories)
 
+</div>
 <!-- Footer Quote -->
 <div align="center">
   
